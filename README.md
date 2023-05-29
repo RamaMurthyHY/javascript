@@ -19,3 +19,15 @@ Javascript is high-level, interpreted programming language, It is primary used f
 - <b>Dynamic Typing:</b> Javascript is a dynamically tying, that means type of a variable is dynamically can be changed during run time depending on the value it holds
 
 </details>
+
+<details><summary><b>What is an Interpreter?</b></summary>
+
+Interpreter is a program that takes the script or code and runs each line at a time without compiling whole program as a compiler,
+
+| Interpreter                                                                                          | Compiler                                                                             |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Interpreter interprets one line at a time and runs code                                              | Compiler compiles a entire program to machine language and runs that machine code    |
+| Since it compile before run the output it is bit faster than the compiler                            | Since it compiles the entire program into machine language, it will run faster       |
+| If any there is any error in the code, interpreter will stops interpreting there and give that error | It compiles entire code and gives all the compiler errors without stopping at middle |
+
+</details>
