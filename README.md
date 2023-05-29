@@ -31,3 +31,8 @@ Interpreter is a program that takes the script or code and runs each line at a t
 | If any there is any error in the code, interpreter will stops interpreting there and give that error | It compiles entire code and gives all the compiler errors without stopping at middle |
 
 </details>
+
+<details><summary><b>Who developed JavaScript, and what was the first name of JavaScript?</b></summary>
+Javascript was created by Brendan Eich in September 1995. It was initially called Mocha, then LiveScript, and finally Javascript
+
+</details>
