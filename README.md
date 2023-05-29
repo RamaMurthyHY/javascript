@@ -36,3 +36,19 @@ Interpreter is a program that takes the script or code and runs each line at a t
 Javascript was created by Brendan Eich in September 1995. It was initially called Mocha, then LiveScript, and finally Javascript
 
 </details>
+
+<details><summary><b>List of the advantages and disadvantages of JavaScript.</b></summary>
+
+| Advantages             | Disadvantages              |
+| ---------------------- | -------------------------- |
+| Speed                  | Client-side Security       |
+| Simplicity             | Browser support            |
+| Popularity             | Lack of debugging facility |
+| Interoperability       | Single inheritance         |
+| Server load            | Sluggish bitwise function  |
+| Rich interface         | Rendering stopped          |
+| Extended functionality |                            |
+| Versatility            |                            |
+| Less overhead          |                            |
+
+</details>
