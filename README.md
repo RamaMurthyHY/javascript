@@ -52,3 +52,21 @@ Javascript was created by Brendan Eich in September 1995. It was initially calle
 | Less overhead          |                            |
 
 </details>
+
+<details><summary><b>What is a named function?</b></summary>
+
+A function defined with name is known as named function
+
+```
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+
+
+// Calling the function
+greet("John");
+```
+
+As in the above example code, the function is defined with a name <b>greet</b>, and this named functions are reusable throughout the code, it can be called as many times as need
+
+</details>
